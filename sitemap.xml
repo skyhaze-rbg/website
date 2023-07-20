@@ -1,196 +1,754 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/4374980/sitemap.xsl"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-       <loc>https://www.preface.ai/</loc>
-       <lastmod>2023-07-05T02:35:56+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>1.0000</priority>
-  </url>
-  <url>
-       <loc>https://www.preface.ai/blog/newsroom/</loc>
-       <lastmod>2023-07-05T02:35:56+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://www.preface.ai/events/</loc>
-       <lastmod>2023-07-05T02:35:56+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://www.preface.ai/blog/</loc>
-       <lastmod>2023-07-05T02:35:56+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://www.preface.ai/preface-coffee/</loc>
-       <lastmod>2023-07-05T02:35:56+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://www.preface.ai/bootcamp-for-kids-summer-2023/</loc>
-       <lastmod>2023-07-05T02:35:56+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://www.preface.ai/chat-gpt-201/</loc>
-       <lastmod>2023-07-05T02:35:56+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://www.preface.ai/adult-programs/data-science-with-python/</loc>
-       <lastmod>2023-07-05T02:35:56+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://www.preface.ai/adult-programs/full-stack-web-development/</loc>
-       <lastmod>2023-07-05T02:35:56+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://www.preface.ai/adult-programs/blockchain-and-web3/</loc>
-       <lastmod>2023-07-05T02:35:56+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://www.preface.ai/kid-programs/scratchjr/</loc>
-       <lastmod>2023-07-05T02:35:56+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://www.preface.ai/kid-programs/scratch/</loc>
-       <lastmod>2023-07-05T02:35:56+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://www.preface.ai/kid-programs/app-inventor/</loc>
-       <lastmod>2023-07-05T02:35:56+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://www.preface.ai/instructors/</loc>
-       <lastmod>2023-07-05T02:35:56+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://www.preface.ai/contact/</loc>
-       <lastmod>2023-07-05T02:35:56+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://www.preface.ai/about/</loc>
-       <lastmod>2023-07-05T02:35:56+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://www.preface.ai/careers/</loc>
-       <lastmod>2023-07-05T02:35:56+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://www.preface.ai/recruit/</loc>
-       <lastmod>2023-07-05T02:35:56+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://www.preface.ai/contingency-measures-for-covid/</loc>
-       <lastmod>2023-07-05T02:35:56+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://www.preface.ai/compare-programs/</loc>
-       <lastmod>2023-07-05T02:35:56+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://www.preface.ai/bootcamp-for-kids/</loc>
-       <lastmod>2023-07-05T02:35:56+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://www.preface.ai/code-for-free/</loc>
-       <lastmod>2023-07-05T02:35:56+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://www.preface.ai/how-we-teach/kids/</loc>
-       <lastmod>2023-07-05T02:35:56+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://www.preface.ai/school/</loc>
-       <lastmod>2023-07-05T02:35:56+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://www.preface.ai/privacy/</loc>
-       <lastmod>2023-07-05T02:35:56+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://www.preface.ai/terms/</loc>
-       <lastmod>2023-07-05T02:35:56+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://www.preface.ai/how-we-teach/</loc>
-       <lastmod>2023-07-05T02:35:56+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.4096</priority>
-  </url>
-  <url>
-       <loc>https://www.preface.ai/partnership/</loc>
-       <lastmod>2023-07-05T02:35:56+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.4096</priority>
-  </url>
-  <url>
-       <loc>https://www.preface.ai/blog/facebook/</loc>
-       <lastmod>2023-07-05T02:35:56+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.2097</priority>
-  </url>
-  <url>
-       <loc>https://www.preface.ai/blog/warnermusic/</loc>
-       <lastmod>2023-07-05T02:35:56+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.2097</priority>
-  </url>
-  <url>
-       <loc>https://www.preface.ai/blog/ai-coffee/</loc>
-       <lastmod>2023-07-05T02:35:56+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.2097</priority>
-  </url>
-  <url>
-       <loc>https://www.preface.ai/blog/am-i-behind-on-tech-exhibition/</loc>
-       <lastmod>2023-07-05T02:35:56+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.2097</priority>
-  </url>
-</urlset>
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8" />
+	<link rel="icon" type="image/png" href="images/pro-logo-trans.png">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<title>PRO Sitemap Service - Create, host and automatically maintain your XML Sitemap Online</title>
+	<meta name="description" content=". Automatically create, host and keep up to date XML sitemaps - a hassle-free professional sitemap service provided by PRO-Sitemaps.com" />
+	<meta name="keywords" content="pro, sitemap, site map, service, professional, hosted, online, generator, XML, HTML, text, google, yahoo, bing" />
+
+	<meta content="width=device-width, initial-scale=1" name="viewport" />
+	<meta name="referrer" content="same-origin" />
+	<meta name="robots" content="noindex" />
+
+
+	<link rel="canonical" href="https://pro-sitemaps.com/" />
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-66679-9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-66679-9');
+  </script>
+
+	<meta property="fb:page_id" content="157167617657989" />
+	<base href="https://pro-sitemaps.com/" />
+
+	<!--     Fonts and icons     -->
+		<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons|Material+Icons+Outlined|Material+Icons+Two+Tone|Lato:700,300|Roboto:100,300,400,500,700&display=swap" />
+	<!-- CSS Files -->
+	<link href="css/proapp-co-v1689780964.css" rel="stylesheet"  media="(min-width: 200px)" />
+<script type="text/javascript">var app_data = {"onload": [], "oninit": [], "charts": {}};</script>
+
+</head>
+
+<body class="layout-new index-page not-logged-in">
+
+
+	<!-- Navbar -->
+	<nav class="navbar navbar-fixed-top">
+		<div class="container">
+
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" title="Toggle navigation" data-toggle="collapse" data-target="#navigation-index">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<div class="logo-container">
+					<a href="https://pro-sitemaps.com/">
+	                    <img class="logo1" src="images/pro-sitemaps-hlogo.png" alt="PRO Sitemaps Logo" /><img class="logo2" src="images/pro-sitemaps-htext.png" alt="PRO-Sitemaps.com Sitemap Service" />
+
+		      	</a>
+				</div>
+			</div>
+			<div class="collapse navbar-collapse navbar-top" id="navigation-index">
+				<ul class="nav navbar-nav navbar-right">
+<li class=""><a href="support/" data-placement="bottom" rel="tooltip" title="Support System"><i class="material-icons">support</i>Support</a></li>
+<li class=""><a href="docs/" data-placement="bottom" rel="tooltip" title="Documentation"><i class="material-icons">library_books</i>Help</a></li>
+
+										</ul>
+			</div>
+		</div>
+	</nav>
+	<!-- End Navbar -->
+
+
+	<div class="wrapper">
+		<div class="header header-filter">
+			<div class="container">
+				<div class="row">
+<h1>Powerful, yet Easy to Use Sitemaps Service</h1>
+					<div class="col-md-8 col-md-offset-2">
+<div class="top-message-box ">
+	<div class="top-alert  show">
+	 <div class="alert alert-danger pad-md a-block">
+
+	 <i class="material-icons">info</i><div class="a-text">You are not logged in, please login first</div></div>
+	</div>
+</div>
+
+						<div class="card card-nav-tabs account-tabs bg-info">
+														<div class="header header-info">
+								<ul class="nav nav-tabs nav-justified nav-login" data-tabs="tabs">
+									<li class="">
+										<a href="#newaccount" data-toggle="tab"><i class="material-icons">person_add</i>New Account</a>
+									</li>
+									<li class="active">
+										<a href="#login" data-toggle="tab"><i class="material-icons">person_outline</i>Login</a>
+									</li>
+								</ul>
+							</div>
+														<div class="content">
+								<div class="tab-content text-center">
+									
+
+									<div class="tab-pane " id="newaccount">
+										<form method="POST" name="newacc" action="index.php" onsubmit="return app.form_submit(this)">
+											<input type="hidden" name="op" value="newaccount" />
+										<h4>Create and maintain a sitemap for your website</h4>
+
+
+											<input  autofocus="true" required="required" class="form-control form-fixed" name="url" value="" placeholder="Your Website URL..." type="text"  autocorrect="off" autocapitalize="none">
+
+<div class="radio1">
+<label><input type="radio" name="guest" checked="checked" value="0">
+		<i class="material-icons material-icons-outlined in-text">person_add</i>Create new account</label>
+<label><input type="radio" name="guest" value="1">
+		<i class="material-icons material-icons-outlined in-text">no_accounts</i>Continue as Guest</label>
+</div>
+
+
+											<input  class="form-control form-fixed" name="email" value="" placeholder="Enter Your Email address to create a new account..." type="email">
+
+											<div class="checkbox"><label><input required="required" class="" name="agree" value="1689842021" type="checkbox">
+												*  I have read and agree with the <a href="privacy-policy/" target="_blank">Privacy Policy</a> and  <a href="terms-of-use/" target="_blank">Terms of Use</a> of the service</label>
+												</div>
+
+
+										<button class="btn btn-primary btn">Create Sitemap</button>
+										</form>
+										<script src="https://accounts.google.com/gsi/client" async defer></script>
+
+										<div class="btns-login">
+											<div id="g_id_onload"
+											     data-client_id="341174047018"
+											     data-context="signin"
+											 	 data-locale="en_GB"
+											     data-ux_mode="popup"
+											     data-login_uri="https://pro-sitemaps.com/index.php?op=login&do=gsignin"
+												 data-auto_prompt="false">
+
+											</div>
+
+										<div class="g_id_signin"
+										     data-type="standard"
+										     data-shape="rectangular"
+											 data-locale="en_GB"
+										     data-text="signup_with"
+										     data-size="large"
+										     data-logo_alignment="left">
+										</div>
+										</div>
+										<br />Already have an account? <a href="#" onclick="
+										 $('.nav-login').find('[href=\'#login\']').click();return false" arole="hint-link">Login</a>
+									</div>
+																	<div class="tab-pane active" id="login">
+										<form method="POST" action="index.php" onsubmit="return app.form_submit(this)">
+											<input type="hidden" name="op" value="login" />
+											<input type="hidden" name="reto" value="/site/4374980/download/?sm=sitemap_4374980.xml" />
+										<h4>Please provide your account email/password</h4>
+											<input required="required" id="loginemail" class="form-control form-fixed" name="email" value="" placeholder="Enter Your account email address..." type="email">
+											<input required="required" class="form-control form-fixed" name="password" value="" placeholder="Password" type="password">
+										<button class="btn btn-primary btn">Login</button>
+										<br /><a href="#forgot" onclick="return app.forgot_tab_show(this)" arole="hint-link">Forgot password?</a>
+										</form>
+
+										<div class="btns-login">
+											<div id="g_id_onload"
+											     data-client_id="341174047018"
+											     data-context="signin"
+											 	 data-locale="en_GB"
+											     data-ux_mode="popup"
+											     data-login_uri="https://pro-sitemaps.com/index.php?op=login&do=gsignin"
+												 data-auto_prompt="false">
+
+											</div>
+
+											<div class="g_id_signin"
+											     data-type="standard"
+											     data-locale="en_GB"
+											     data-shape="rectangular"
+											     data-text="signin_with"
+											     data-size="large"
+											     data-logo_alignment="left">
+											</div>
+										</div>
+										<br />Don't have an account? <a href="#" onclick="
+										 $('.nav-login').find('[href=\'#newaccount\']').click();return false" arole="hint-link">Create a new one</a>
+
+									</div>
+									<div class="tab-pane" id="forgot">
+										<form method="POST" action="index.php" onsubmit="return app.form_submit(this)">
+											<input type="hidden" name="op" value="forgot" />
+										<h4>What is your account email address?</h4>
+											<input required="required" class="form-control form-fixed" name="email" value="" placeholder="Your account email..." type="email">
+										<button class="btn btn-primary btn">Reset password</button>
+										<br /><a href="#login" onclick="return app.tab_pane_select('login')" arole="hint-link"><i class="material-icons">&#xE314;</i> Back to login form</a>
+									</form>
+									</div>
+									<div class="tab-pane" id="passconfirm">
+										<form method="POST" action="index.php" onsubmit="return app.form_submit(this)">
+											<input type="hidden" name="op" value="login" />
+											<input type="hidden" name="do" value="gsignin" />
+											<input type="hidden" name="link" value="true" />
+											<input type="hidden" name="email" value="" />
+											<h4>Link your Google Account</h4>
+
+										<p>An account with "" email already exists.<br>
+											Please enter your <b>PRO Sitemaps password</b> to link it to your Google Account</p>
+											<input required="required" class="form-control form-fixed" name="password" value="" placeholder="Password" type="password">
+										<button class="btn btn-primary btn">Link with Google Account</button>
+										<br /><a href="#forgot" onclick="return app.forgot_tab_show(this)" arole="hint-link">Forgot password?</a>
+										<br /><a href="#login" onclick="history.back()" arole="hint-link"><i class="material-icons">&#xE314;</i> Back to login form</a>
+									</form>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<!-- start-form -->
+					</div>
+					<!-- start form col-div -->
+				</div>
+				<!-- /row -->
+			</div>
+			<!-- /container -->
+		</div>
+		<!-- /.header -->
+		<div class="main main-raised">
+			<div class="container ">
+				<div class="row">
+				<div class="card ">
+				<!-- content starts here -->
+				<h2>PRO Sitemaps: The Easiest Sitemap Solution</h2>
+				<div class="content-pro-desc col-md-5 col-md-offset-1 col-sm-6 col-xs-12">
+
+					<div class=" pro-thumbs">
+						<!-- <div class="item"><img src="images/thumb/pro-sthumb-1.png" title="PRO-Sitemaps.com website thumbnail, no '.$i.'" /></div> -->
+						<div class="owl-carousel owl-theme" owl-items="1" owl-ani-in="fadeInRight" owl-ani-out="fadeOutLeft" 2owl-dots="left">
+
+							<div class="item"><h6>Create new account or login</h6><img src="images/thumb/pro-sthumb-0.webp" title="Create new account or login" /></div><div class="item"><h6>Check advanced options</h6><img src="images/thumb/pro-sthumb-3.webp" title="Check advanced options" /></div><div class="item"><h6>View created sitemap details</h6><img src="images/thumb/pro-sthumb-2.webp" title="View created sitemap details" /></div><div class="item"><h6>Automatically submit to Google</h6><img src="images/thumb/pro-sthumb-4.webp" title="Automatically submit to Google" /></div><div class="item"><h6>Upgrade to PRO account</h6><img src="images/thumb/pro-sthumb-5.webp" title="Upgrade to PRO account" /></div><div class="item"><h6>View site structure</h6><img src="images/thumb/pro-sthumb-6.webp" title="View site structure" /></div><div class="item"><h6>Check the history of sitemaps</h6><img src="images/thumb/pro-sthumb-7.webp" title="Check the history of sitemaps" /></div><div class="item"><h6>Add more websites</h6><img src="images/thumb/pro-sthumb-1.webp" title="Add more websites" /></div>								<!-- row end -->
+						</div>
+					</div>
+				</div>
+				<div class="col-md-5 col-sm-6 col-xs-12">
+					<div class="pro-desc">
+						<h4>What is a sitemap?</h4>
+<p>By placing a formatted xml file with site map on your website, you allow Search Engine crawlers (like Google) to find out what pages are present and which have recently changed, and to crawl your site accordingly.</p>
+<a href="info/about-sitemaps.html">Read more <i class="material-icons">keyboard_arrow_right</i></a>
+						<p>We've been successfully providing online sitemap generator service for our customers since 2005, creating millions of sitemaps for websites all over the world.
+						</p>
+						<h4>Now you can take advantage of the Pro Sitemaps Service:</h4>
+						<ul class="list-unstyled2">
+							<li>You only need to provide your website URL</li>
+							<li>We will create XML sitemap for you from our server and optionally will <b>keep it up-to-date</b>
+							</li>
+							<li><b>We host your sitemap</b> files on our servers and ping search engines automatically
+							</li>
+							<li><b>No software installed</b> on your computer or your server
+							</li>
+							<li>We can create and maintain <b>Images, Video, News sitemaps and RSS feed</b>, track broken links, internal and external links, analyze site structure and site history as well
+							</li>
+						</ul>
+						</p>
+					</div>
+
+				</div>
+				</div>
+			</div>
+			<div class="card-features-container">
+<div class="card-features-container">
+<div class="card card-features">
+
+		<div class="col-1"> </div>
+		<div class="col-2">
+			<div class="header header-info font-2">FREE Account</div>
+		</div>
+		<div class="col-3">
+			<div class="header header-danger font-2">PRO Account</div>
+		</div>
+
+
+		<div class="col-1"> </div>
+		<div class="col-2-3"><div class="label label-trans text-primary p_text"><i class="material-icons as-text">verified_user</i> Upgrade at any time!</div></div>
+
+
+	
+		<div class="col-1 ">Number of pages</div>
+		<div class="col-2 ">Up to 500</div>
+		<div class="col-3 ">1,000 - 1,5 million</div>
+	
+		<div class="col-1 ">Pricing</div>
+		<div class="col-2 ">Free!</div>
+		<div class="col-3 "><a href="#" arole="hint-link" onclick="$('.subscribe-plans').insertAfter($(this).parent()).toggle();return false;" rel="tooltip" title="$4.19 for up to 1000 pages paid yearly - Click to see all plans">From $4.19/mo</a></div>
+	
+		<div class="col-1 "><a href="info/about-sitemaps.html" target="_blank">XML Sitemap</a></div>
+		<div class="col-2 "><i class="material-icons text-enable">check</i></div>
+		<div class="col-3 "><i class="material-icons text-enable">check</i></div>
+	
+		<div class="col-1 "><a href="info/html-sitemap.html" target="_blank">Text + HTML Sitemap</a></div>
+		<div class="col-2 "><i class="material-icons text-enable">check</i></div>
+		<div class="col-3 "><i class="material-icons text-enable">check</i></div>
+	
+		<div class="col-1 ">Email Notifications</div>
+		<div class="col-2 "><i class="material-icons text-enable">check</i></div>
+		<div class="col-3 "><i class="material-icons text-enable">check</i></div>
+	
+		<div class="col-1 "><a href="app/" target="_blank">Mobile App</a></div>
+		<div class="col-2 "><i class="material-icons text-enable">check</i></div>
+		<div class="col-3 "><i class="material-icons text-enable">check</i></div>
+	
+		<div class="col-1 "><a href="docs/sitemap-submit/" target="_blank">Search Engines Submission</a></div>
+		<div class="col-2 "><i class="material-icons text-enable">check</i></div>
+		<div class="col-3 "><i class="material-icons text-enable">check</i></div>
+	
+		<div class="col-1  proonly">Automatic Sitemap Updates</div>
+		<div class="col-2  proonly"><i class="material-icons text-disable">block</i></div>
+		<div class="col-3  proonly"><i class="material-icons text-enable">check</i></div>
+	
+		<div class="col-1  proonly"><a href="docs/config-main/" target="_blank">Fully Configurable</a></div>
+		<div class="col-2  proonly"><i class="material-icons text-disable">block</i></div>
+		<div class="col-3  proonly"><i class="material-icons text-enable">check</i></div>
+	
+		<div class="col-1  proonly"><a href="info/images-sitemap.html" target="_blank">Images and Video sitemap</a></div>
+		<div class="col-2  proonly"><i class="material-icons text-disable">block</i></div>
+		<div class="col-3  proonly"><i class="material-icons text-enable">check</i></div>
+	
+		<div class="col-1  proonly"><a href="info/news-sitemap.html" target="_blank">News sitemap and RSS feed</a></div>
+		<div class="col-2  proonly"><i class="material-icons text-disable">block</i></div>
+		<div class="col-3  proonly"><i class="material-icons text-enable">check</i></div>
+	
+		<div class="col-1  proonly"><a href="info/broken-links.html" target="_blank">Detect Broken links</a></div>
+		<div class="col-2  proonly"><i class="material-icons text-disable">block</i></div>
+		<div class="col-3  proonly"><i class="material-icons text-enable">check</i></div>
+	
+		<div class="col-1  proonly"><a href="docs/sitemap-log/" target="_blank">History of Sitemaps Report</a></div>
+		<div class="col-2  proonly"><i class="material-icons text-disable">block</i></div>
+		<div class="col-3  proonly"><i class="material-icons text-enable">check</i></div>
+	
+		<div class="col-1  proonly"><a href="docs/sitemap-structure/" target="_blank">URL Structure Report</a></div>
+		<div class="col-2  proonly"><i class="material-icons text-disable">block</i></div>
+		<div class="col-3  proonly"><i class="material-icons text-enable">check</i></div>
+	
+		<div class="col-1  proonly"><a href="docs/sitemap-extlinks/" target="_blank">External Links Report</a></div>
+		<div class="col-2  proonly"><i class="material-icons text-disable">block</i></div>
+		<div class="col-3  proonly"><i class="material-icons text-enable">check</i></div>
+	
+		<div class="col-1  proonly"><a href="docs/sitemap-reflinks/" target="_blank">Internal Links Report</a></div>
+		<div class="col-2  proonly"><i class="material-icons text-disable">block</i></div>
+		<div class="col-3  proonly"><i class="material-icons text-enable">check</i></div>
+	
+		<div class="col-1  proonly"><a href="docs/sitemap-api/" target="_blank">API Access</a></div>
+		<div class="col-2  proonly"><i class="material-icons text-disable">block</i></div>
+		<div class="col-3  proonly"><i class="material-icons text-enable">check</i></div>
+	</div>
+
+<div class="subscribe-plans col-1-2-3" style="display: none">
+<a name="pricetable"></a>
+<h4 class="pro_sec_title">PRO Sitemaps Subscription plans</h4>
+<table class="table upgrade-table table-large">
+	<thead>
+
+<tr><th>Subscription plan</th><th>Monthly fee</th>
+<th><span class="label label-info label-md">-30%!</span>
+	<br>Yearly subscription
+</th></tr>
+</thead>
+<tbody>
+<tr class="subplan"><td class="plan-pages">Up to 1,000 pages</td><td>$5.99</div></td><td>4.19/mo = 50.28/yr</div></td></tr><tr class="subplan"><td class="plan-pages">Up to 5,000 pages</td><td>$8.99</div></td><td>6.29/mo = 75.48/yr</div></td></tr><tr class="subplan"><td class="plan-pages">Up to 10,000 pages</td><td>$11.99</div></td><td>8.39/mo = 100.68/yr</div></td></tr><tr class="subplan"><td class="plan-pages">Up to 25,000 pages</td><td>$17.99</div></td><td>12.59/mo = 151.08/yr</div></td></tr><tr class="subplan"><td class="plan-pages">Up to 50,000 pages</td><td>$23.99</div></td><td>16.79/mo = 201.48/yr</div></td></tr><tr class="subplan"><td class="plan-pages">Up to 100,000 pages</td><td>$35.99</div></td><td>25.19/mo = 302.28/yr</div></td></tr><tr class="subplan"><td class="plan-pages">Up to 200,000 pages</td><td>$47.99</div></td><td>33.59/mo = 403.08/yr</div></td></tr><tr class="subplan"><td class="plan-pages">Up to 300,000 pages</td><td>$59.99</div></td><td>41.99/mo = 503.88/yr</div></td></tr><tr class="subplan"><td class="plan-pages">Up to 400,000 pages</td><td>$71.99</div></td><td>50.39/mo = 604.68/yr</div></td></tr><tr class="subplan"><td class="plan-pages">Up to 600,000 pages</td><td>$89.99</div></td><td>62.99/mo = 755.88/yr</div></td></tr><tr class="subplan"><td class="plan-pages">Up to 800,000 pages</td><td>$113.99</div></td><td>79.79/mo = 957.48/yr</div></td></tr><tr class="subplan"><td class="plan-pages">Up to 1,000,000 pages</td><td>$149.99</div></td><td>104.99/mo = 1,259.88/yr</div></td></tr><tr class="subplan"><td class="plan-pages">Up to 1,200,000 pages</td><td>$179.99</div></td><td>125.99/mo = 1,511.88/yr</div></td></tr><tr class="subplan"><td class="plan-pages">Up to 1,500,000 pages</td><td>$227.99</div></td><td>159.59/mo = 1,915.08/yr</div></td></tr><tr class="subplan"><td class="plan-pages">Up to 2,000,000 pages</td><td>$287.99</div></td><td>201.59/mo = 2,419.08/yr</div></td></tr></tbody></table>
+</div>
+</div>
+			</div>
+
+			</div>
+
+
+		<div class="section xml-testimonials">
+			<div class="container">
+				<!-- row start -->
+				<div class=""><a href="testimonials.html" class="btn btn-primary btn-sm" ><i class="material-icons">star</i> Customer testimonials</a></div>
+				<div class="row-space-after owl-carousel owl-theme">
+					<div class="item">
+<p>I used your online sitemap generator and was wildly impressed! 
+I had used one on another site right before and it only picked up a few pages 
+(and had several errors). Yours picked up 371 pages and validated completely! 
+Thanks!
+</p> 
+<p>
+Admin 
+<BR>
+http://www.datSplat.com/ 
+</p>
+
+</div><div class="item">
+<p> 
+
+
+Your online site map generator is by far the best one out there! Couldn't be easier to use, always gets it right. Makes it a snap to generate site maps for my small business clients. 
+</p>
+<p>
+Thanks so much for making this great tool available.
+</p>
+<p>
+Mary Anne Gross
+<br />
+www.enlytend.com
+
+</p>
+
+</div><div class="item">
+<p> 
+XML Standalone PHP Sitemap generator is very easy to install and very easy to use.
+</p>
+<p>
+Compared to the online version it saves time and we can now create a fully customized HTML sitemap.
+</p>
+<p>
+Thanks for this great software ! 
+</p>
+<p>
+
+Actium.nl Webmaster
+
+<br />
+www.actium.nl
+</p>
+
+</div><div class="item">
+<p> 
+
+We had XML Sitemap for many years and it works perfectly, easy to install easy to use.
+</p>
+<p>
+Your support it’s just outstanding, thanks!
+</p>
+<p>
+ Keep up the good work
+</p>
+<p>
+Karl
+<br />
+www.BolagsRegistrering.se
+
+</p>
+
+</div><div class="item">
+<p> 
+I encourage anyone who hasn't done already to use this script.  It is amazing how much time it saves you.  It really is quite a find!
+</p>
+<p>
+Phil Shacklady,
+<br />
+http://www.affordablekusadasi.com/
+</p>
+
+</div><div class="item">
+<p> 
+I love your online site generator. Finding your website ended many hours of struggle to understand sitemaps. It's so easy to use and the broken links function is extremely helpful. 
+</p>
+<p>
+Thanks again.
+</p>
+<p>
+Nikki,
+<br />
+FunkyCoverz
+<br />
+http://www.funkycoverz.com.au/
+</p>
+
+
+
+</div><div class="item">
+<p> 
+
+So easy to find and use - I keep wondering, "What's the catch?".
+</p>
+<p>
+Forget trying to find a tool or extension in Dreamweaver -  XML Sitemaps is quick, easy and absolutely free. I am SO impressed.
+</p>
+<p>
+Elizabeth Johnson
+<br />
+Art Director
+<br />
+www.compusoftaus.com.au
+
+</p>
+
+</div><div class="item">
+<p> 
+The xml-sitemaps.com site map generator is absolutely the best and easiest
+to use on the planet. I highly recommend it.
+</p>
+<p>
+Bob Metz
+<br />
+New Tech Graphics, Memphis Tennessee
+<br />
+www.SafetyBanners.Org
+</p>
+
+
+</div><div class="item">
+<p>
+Absolutely the best jargon-free, all options - let's make it work service!!!!
+</p>
+<p>
+So happy I could get this done easily at the click of a button!  This service can give your systems admin a nice coffee break!
+</p>
+<p>
+Selina Davis
+<br />
+zerocarbs.ca
+
+</p>
+
+</div><div class="item">
+<p>
+XML sitemap generator is one of the best sitemap generators around.
+</p>
+<p>
+It caters to every necessity of a website i.e. from creating sitemaps,alerting about broken links to providing options for submitting for various search engines,it’s the best around.
+</p>
+<p>
+Radha
+<br />
+www.careernirvaan.com
+
+</p>
+</div><div class="item">
+<p> 
+I just wanted to say that your sitemap service is the absolute easiest
+and most convenient way to create a sitemap that I've ever found.
+</p>
+<p>
+You've saved me tons of time. Keep up the good work!
+</p>
+<p>
+Ideal Eyewear,
+<br />
+http://www.IdealEyewear.net/
+</p>
+
+</div><div class="item">
+<p>
+I used your online sitemap generator to create and submit sitemaps to Google and Yahoo this morning. The whole process was so efficient and simple that I am passing your URL to all of my friends with websites.
+</p>
+
+<p>Thank you very much for a great product with instructions even I could understand!
+</p>
+<p>
+Derek W. Hornby
+
+</p>
+
+    
+  
+  </div><div class="item">
+<p>Your online generator is fabulous. It's so intuitive and 
+easy to use.</p>
+<p>If there is an award for Most Useful Tool Online, this 
+surely gets my vote.</p> 
+<p>Edwin John<BR>http://www.openforsale.com/</p>
+
+</div><div class="item">
+<p>
+
+The most straightforward instrument to make a sitemap all in all web. Nothing such basic can be discovered anyplace.
+</p>
+<p>
+Keep the great work going.
+</p>
+<p>
+Thanks for the great work
+</p>
+<p>
+Malik Umar
+<br />
+www.greenkashmirtravels.com
+
+</p>
+</div><div class="item">
+<p>
+Hi, a quick note to say thank you for your excellent online XML Google & Ror sitemap generator.  It is so easy to use and implement.  Thank you again for such an excellent free service. 
+</p>
+
+<p>
+Webmaster,
+<BR>
+Micrositez Web Design Studio
+<br/>
+http://www.micrositez-seo.co.uk/
+</p>
+
+
+</div><div class="item">
+<p>
+This is a great service. Does the job, spot on! Very clear with useful advise as well.
+</p>
+<p>
+Peter Kearney
+<br />
+Quick Move Waste Skip Hire
+<br />
+www.quickmovewaste.ie
+
+</p>
+
+    
+  
+  
+</div><div class="item">
+<p> 
+I've tried sitemap generators in the past, but none has been so fast, accurate and completely easy to use. My hat is off to you and your service - well done!
+</p>
+<p>
+MK (Casey) van Bronkhorst,
+<br />
+Owner - Perfectly Shaped World
+<br />
+http://www.perfectlyshapedworld.com/
+</p>
+
+</div><div class="item">
+<p> 
+What a fabulous resource you have given us. Besides the sitemaps generated, your link checked for broken links has saved me many hours.
+</p>
+<p>
+Thanks you
+</p>
+<p>
+John W. Chapman,
+<br />
+www.firstclassmoving.com
+</p>
+
+</div><div class="item">
+<p> 
+
+Your Online Sitemap Generator is fantastic.  It is easy-to-use and saves 
+a lot of time.  It is the first XML generator I was recommended and I 
+didn't bother looking at any alternatives after I'd tried it.
+</p>
+<p>
+Many thanks.
+</p>
+
+<p>
+Derek Pollard,
+
+</p>
+
+</div><div class="item">
+<p> 
+XML Standalone PHP Sitemap generator is very easy to install and very easy to use.
+</p>
+<p>
+Compared to the online version it saves time and we can now create a fully customized HTML sitemap.
+</p>
+<p>
+Thanks for this great software ! 
+</p>
+<p>
+
+Actium.nl Webmaster
+
+<br />
+www.actium.nl
+</p>
+
+</div><div class="item">
+<p> 
+The broken links report is a excellent tool - a must have for every web
+developer. After going live with new content on my site the generator
+alerted me so many broken links which I would never have know. 
+</p>
+<p>
+Lakpura.com Webmaster ,
+<br />
+http://www.lakpura.com/
+</p>
+
+</div><div class="item">
+<p> 
+This is an amazing tool that every company should take advantage of.  
+We recently put it on our site and noticed the results immediately.  
+</p>
+<p>
+It's easy and it can really help your website.  It's really a no-brainer.  
+</p>
+<p>
+Simon Feuer
+<br />
+Apex Services
+<br />
+www.apexservices.com
+
+</p>
+
+
+</div>						<!-- row end -->
+				</div>
+			</div>
+		</div>
+	</div>
+
+			<footer class="footer">
+			<div class="container">
+				<nav class="pull-left">
+					<ul>
+						<li>
+							<a href="privacy-policy/" rel="tooltip" title="Privacy policy">Privacy policy</a>
+						</li>
+						<li>
+							<a href="terms-of-use/" rel="tooltip" title="Terms of Use">Terms of Use</a>
+						</li>
+						<!-- <li><a href="https://www.xml-sitemaps.com/forum/" rel="tooltip" title="Community discussions">Forum</a></li> -->
+						<li>
+							<a href="app/" rel="tooltip" title="PRO Sitemaps - professional hosted sitemaps service">Mobile App</a>
+						</li>
+						<li><a href="account/api/" rel="tooltip" title="PRO Sitemaps API for developers">API</a></li>
+						<li><a href="contact/" rel="tooltip" title="Frequently asked questions and contact info">Contact</a></li>
+						<li><a href="docs/" rel="tooltip" title="Documentation">Help</a></li>
+						<li><a href="support/" rel="tooltip" title="Support">Support</a></li>
+					</ul>
+				</nav>
+				<div class="copyright pull-right">
+					Copyright
+					&copy; 2005-2023 <!-- <a href="https://pro-sitemaps.com">XML-Sitemaps</a> -->
+					CMJ Marketing Ltd 06433791
+				</div>
+
+
+			</div>
+
+		</footer>
+<!--   Core JS Files   -->
+
+<div class="modal fade" id="imodal" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-body">
+        <img src="" class="ifull" />
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+	<script type="text/javascript">var page_state = {"loggedin":false,"loaded":1689842021.532865,"cursection":"download","curop":"site","site":null};app_data["onload"].unshift(function(){app.tab_pane_select("login");});</script><script src="js/proapp-co-v1680519744.js" type="text/javascript" async defer></script>
+
+
+
+</body>
+
+
+</html>
