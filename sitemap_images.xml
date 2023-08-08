@@ -5,7 +5,7 @@
 
   <url>
        <loc>https://www.preface.ai/</loc>
-       <lastmod>2023-07-20T10:39:11+00:00</lastmod>
+       <lastmod>2023-08-07T10:46:42+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>1.0000</priority>
        <image:image>
@@ -20,7 +20,7 @@
   </url>
   <url>
        <loc>https://www.preface.ai/events/</loc>
-       <lastmod>2023-07-20T10:39:11+00:00</lastmod>
+       <lastmod>2023-08-07T10:46:42+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
        <image:image>
@@ -98,7 +98,7 @@
   </url>
   <url>
        <loc>https://www.preface.ai/kid-programs/scratchjr/</loc>
-       <lastmod>2023-07-20T10:39:11+00:00</lastmod>
+       <lastmod>2023-08-07T10:46:42+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
        <image:image>
@@ -113,12 +113,59 @@
   </url>
   <url>
        <loc>https://www.preface.ai/about/</loc>
-       <lastmod>2023-07-20T10:39:11+00:00</lastmod>
+       <lastmod>2023-08-07T10:46:42+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
        <image:image>
          <image:loc>https://www.preface.ai/_next/static/images/who_2-6391753b3d399d4c34bcb5b15e4a744c.png</image:loc>
        </image:image>
   </url>
-
+  <url>
+       <loc>https://www.preface.ai/compare-programs/</loc>
+       <lastmod>2023-08-07T10:46:42+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.preface.ai/_next/static/images/leah-queena-d99509e6c6ef63a817f6d2c4ada2f0bf.jpeg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.preface.ai/_next/static/images/jupter-screen-2db9d888a0573402f809739b47ce5efc.jpeg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.preface.ai/_next/static/images/learning-2d72b158ce259594a9b9e0008f9a9e18.jpeg</image:loc>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.preface.ai/how-we-teach/kids/</loc>
+       <lastmod>2023-08-07T10:46:42+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://www.preface.ai/_next/static/images/hero-image-1-886ba435adb15b619f70ea6325684783.png</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.preface.ai/_next/static/images/hero-image-1@2x-1dee28a73d919987e2fb54ee59eddd91.png</image:loc>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://www.preface.ai/how-we-teach/</loc>
+       <lastmod>2023-08-07T10:46:42+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+       <image:image>
+         <image:loc>https://www.preface.ai/_next/static/images/hero-c806c831cdfdbe4b0366e7590c802f5f.jpeg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.preface.ai/_next/static/images/curriculum-85402d644168d484f49146728855e87f.png</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.preface.ai/_next/static/images/curriculum@2x-f7a3afb9f591143b2a64f184d2965b2c.png</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.preface.ai/_next/static/images/immersive-learning-dab0ab7871a47994147cb64dd24823d7.jpg</image:loc>
+       </image:image>
+       <image:image>
+         <image:loc>https://www.preface.ai/_next/static/images/source-code-db2cba1995d20b15feedb8bab0d1ff48.png</image:loc>
+       </image:image>
+  </url>
 </urlset>
