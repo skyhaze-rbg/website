@@ -128,7 +128,66 @@
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
-
+  <url>
+       <loc>https://www.preface.ai/code-for-free/</loc>
+       <lastmod>2023-08-08T10:47:09+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://www.preface.ai/how-we-teach/kids/</loc>
+       <lastmod>2023-08-08T10:47:09+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://www.preface.ai/school/</loc>
+       <lastmod>2023-08-08T10:47:09+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://www.preface.ai/privacy/</loc>
+       <lastmod>2023-08-08T10:47:09+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://www.preface.ai/terms/</loc>
+       <lastmod>2023-08-08T10:47:09+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://www.preface.ai/how-we-teach/</loc>
+       <lastmod>2023-08-08T10:47:09+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://www.preface.ai/partnership/</loc>
+       <lastmod>2023-08-08T10:47:09+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://www.preface.ai/blog/facebook/</loc>
+       <lastmod>2023-08-08T10:47:09+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.2097</priority>
+  </url>
+  <url>
+       <loc>https://www.preface.ai/blog/warnermusic/</loc>
+       <lastmod>2023-08-08T10:47:09+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.2097</priority>
+  </url>
+  <url>
+       <loc>https://www.preface.ai/blog/ai-coffee/</loc>
+       <lastmod>2023-08-08T10:47:09+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.2097</priority>
+  </url>
   <url>
        <loc>https://www.preface.ai/blog/am-i-behind-on-tech-exhibition/</loc>
        <lastmod>2023-08-08T10:47:09+00:00</lastmod>
